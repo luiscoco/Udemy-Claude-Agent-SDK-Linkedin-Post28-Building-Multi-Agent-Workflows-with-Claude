@@ -1,0 +1,15 @@
+{
+  "lesson": 27,
+  "title": "Building Multi-Agent Workflows with Claude",
+  "application": "Beginner Article Team",
+  "purpose": "Pass explicit planner, researcher and writer deliverables through an ordered host-orchestrated workflow.",
+  "exercise": "Remove S1 and observe how unsupported claims should be handled. Check which handoff needs validation.",
+  "source_topics": [
+    "01-Design-Roles-with-Clear-Boundaries.png",
+    "02-Build-One-Reusable-SDK-Call.png",
+    "03-Make-Every-Handoff-Explicit.png",
+    "04-Give-Research-Real-Evidence.png",
+    "05-Choose-the-Right-Execution-Order.png",
+    "06-Review-Recover-and-Improve.png"
+  ]
+}

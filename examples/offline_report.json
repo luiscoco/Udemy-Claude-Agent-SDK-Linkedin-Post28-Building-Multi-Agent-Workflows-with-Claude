@@ -1,0 +1,22 @@
+{
+  "lesson": 27,
+  "application": "Beginner Article Team",
+  "mode": "offline_teaching_fixture",
+  "status": "complete",
+  "result": {
+    "plan": {
+      "sections": [
+        "Problem",
+        "Async iteration",
+        "Practice"
+      ]
+    },
+    "findings": {
+      "findings": [
+        "async for consumes an asynchronous iterator. [S1]"
+      ]
+    },
+    "article": "# Async Python\n\n## Problem\nWaiting need not block other work.\n\n## Async iteration\nUse async for. [S1]\n\n## Practice\nInspect an async iterator."
+  },
+  "measured_cost_usd": null
+}

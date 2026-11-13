@@ -1,0 +1,9 @@
+{
+  "goal": "Write a beginner article about async Python",
+  "sources": [
+    {
+      "id": "S1",
+      "text": "async for consumes an asynchronous iterator."
+    }
+  ]
+}
